@@ -8,6 +8,8 @@ Modified starter code to create an application that enables employees to generat
 * Lower case letters 
 * Special characters 
 
+![random password generator](./images/password-g.png)
+
 
 ## Technologies used 
 
