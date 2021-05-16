@@ -19,4 +19,11 @@ function writePassword() {
 // Generate password using selections made by user with prompts and confirms. Return password to write
 // password function.
 function generatePassword() {
+
+  // Prompt user for password length.
+  var passwordLength = prompt("Please select a password length between 8 and 128 characters.");
+
+  // Variable declared to store password that's generated.
+  var password = "";
+
 }
